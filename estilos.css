@@ -21,3 +21,12 @@ p{
     text-align: justify;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+
+footer{
+    height: 200px;
+    background-color: black;
+}
+
+footer p{
+    color: white;
+}
